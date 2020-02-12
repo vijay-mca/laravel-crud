@@ -1,0 +1,26 @@
+body {
+    background: rgb(228, 191, 150);
+}
+.vertical-center {
+    position: absolute;
+    top: 30%;
+    transform: translate(30%);
+    background: rgb(238, 146, 7);
+    padding: 50px;
+    color: white;
+    font-size: 20px;
+}
+
+.form-control {
+    height: 46px;
+}
+
+.table tr {
+    font-size: 20px;
+    color: wheat;
+}
+
+.table td {
+    font-size: 18px;
+    color: white;
+}
